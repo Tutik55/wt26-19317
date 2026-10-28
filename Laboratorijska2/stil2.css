@@ -1,0 +1,61 @@
+#navigacijski-meni{
+    display:block;
+    background-color: #f4f4f4;
+}
+
+#navigacijski-meni a {
+    color: black;
+    background-color: white;
+    padding: 10px;
+    border: 1px solid gray;
+    width: 200px;
+    display: block;
+}
+
+#navigacijski-meni a:hover {
+    background-color: #b52d36;
+    color: white;
+}
+
+body{
+    background-color: #f5f5f5;
+
+}
+
+h1 {
+    color: darkred;
+    text-align: center;
+    padding: 5px;
+}
+
+#japan {
+    background-color: white;
+    padding: 15px;
+    margin: 20px 0;
+    border: 1px solid gray;
+}
+
+h2 {
+    color: darkred;
+}
+
+#tokio{
+    background-color: white;
+    padding: 15px;
+    margin: 20px 0;
+    border: 1px solid gray;
+}
+
+#kyoto{
+    background-color: white;
+    padding: 15px;
+    margin: 20px 0;
+    border: 1px solid gray;
+}
+
+#kuhinja{
+    background-color: white;
+    padding: 15px;
+    margin: 20px 0;
+    border: 1px solid gray;
+}

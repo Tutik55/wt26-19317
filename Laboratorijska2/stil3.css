@@ -1,0 +1,19 @@
+.ponuda {
+    padding: 20px;
+    margin: 15px;
+    font-family: Arial;
+    border: 1px solid gray;
+}
+
+.preporuceno {
+    background-color: lightgreen;
+    border: 2px solid green;
+}
+
+
+
+#naslov{
+    font-family: Arial;
+    color: blue;
+    text-align: center;
+}
