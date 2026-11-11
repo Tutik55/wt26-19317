@@ -1,0 +1,31 @@
+
+body {
+    font-family: "Times New Roman", serif;
+    padding: 10px;
+}
+
+form {
+    width: 185px;
+}
+
+label {
+    display: block;
+    font-size: 18px;
+}
+
+input {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 4px;
+    padding: 3px;
+}
+
+button {
+    cursor: pointer;
+    font-size: 15px;
+}
+
+#greska {
+    color: red;
+}

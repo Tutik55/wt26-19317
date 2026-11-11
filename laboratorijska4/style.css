@@ -1,0 +1,32 @@
+*{
+    background-color: bisque;
+}
+
+body{
+    font-family: Arial, sans-serif;
+}
+
+.naslov{
+    text-align: center;
+    color: black;
+}
+
+li{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+li button{
+    margin-left: 17px;
+}
+
+
+.zavrseno {
+    color: green;
+    text-decoration: line-through;
+}
+
+#reset {
+    margin-top: 15px;
+    margin-left: 17px;
+}

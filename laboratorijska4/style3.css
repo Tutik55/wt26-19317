@@ -1,0 +1,49 @@
+
+body {
+    background-color: aquamarine;
+    font-family: 'Lucida Sans', Arial, sans-serif;
+}
+
+#naslov {
+    text-align: center;
+    font-size: 38px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 7px;
+    margin: 5px 10px 5px 0;
+}
+
+button {
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+table {
+    border-collapse: collapse;
+    width: 450px;
+    max-width: 100%;
+}
+
+th, td {
+    border: 1px solid #999;
+    padding: 10px;
+    text-align: left;
+}
+
+thead, tfoot {
+    background-color: #eeeeee;
+    font-weight: bold;
+}
+
+#greska {
+    color: red;
+}
+
+#brojStavki {
+    font-weight: bold;
+}
